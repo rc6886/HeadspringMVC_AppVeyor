@@ -8,7 +8,7 @@ $sln = "$src\HSMVC.sln"
 
 $test_results = "$basedir\TestResults"
 
-$database_instance = ".\sqlexpress"
+$database_instance = "SQL2014"
 $database_name = "Conference"
 $scripts_path = "$src\HSMVC.Database\Database\HSMVC"
 
