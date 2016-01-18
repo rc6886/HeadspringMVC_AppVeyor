@@ -1,0 +1,9 @@
+*.suo
+bin
+obj
+build
+package
+Publish
+hsmvc/packages
+*.DotSettings.user
+*.csproj.user
